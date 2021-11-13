@@ -15,4 +15,10 @@ After creating an account on Kaggle, one of the recommended competitions for new
 If time permits, I'll definitely explore another competition on Kaggle.
 
 
-## 3. What: Dataset, models, framework, components 2pts
+## 3. What: Dataset, models, framework, components
+
++ Dataset - The dataset can be found at [https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/c/titanic/data)
+
++ Models - LogisticRegression, RandomForest, GradientBoosting, SVC
+
++ Framework/Library - Will also explore XGBoost if time permits
