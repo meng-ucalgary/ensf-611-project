@@ -3,7 +3,10 @@
 Author: *Bhavyai Gupta*
 
 
-## 1. Why: Question/Topic being investigated 1pt
+## 1. Why: Question/Topic being investigated
+
+Kaggle is very popular among Machine Learning enthusiasts. I would like to explore Kaggle by taking part in their machine learning competition.
+
 
 ## 2. How: Plan of attack 1pt
 
