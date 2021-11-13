@@ -1,5 +1,7 @@
-# Project proposal for *YOUR PROJECT TITEL*
-Author: *YOUR NAME*
+# Project proposal for ENSF-611 Fall 2021
+
+Author: *Bhavyai Gupta*
+
 
 ## 1. Why: Question/Topic being investigated 1pt
 
